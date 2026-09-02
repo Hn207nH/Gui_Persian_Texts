@@ -16,7 +16,7 @@ return {
         YoutubeTitle = "کانال یوتیوب:",
         
         -- Tab 1
-        KeyName = "قعلی"
+        KeyName = "فعلی",
         KeySettingsHeader = "تنظیمات کلید منو و میانبرها",
         OpenCloseKeySetting = "تنظیم کلید باز و بسته کردن منو:",
         PressAnyKey = "یک کلید را فشار دهید...",
