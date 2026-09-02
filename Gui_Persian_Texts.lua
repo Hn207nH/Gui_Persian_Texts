@@ -1,4 +1,3 @@
-return {
     Tabs = {
         "تنظیمات منو",
         "شخصیت",
@@ -28,7 +27,6 @@ return {
         Suicide = "خودکشی",
         ReSpawn = "ري اسپاون",
         Teleport = "تلپورت",
-        TeleportError = "{FF0000}[ خطا! ] {FFFFFF}نقطه مشخص‌شده پیدا نشد؛ {FFFFFF}لطفاً مکان موردنظر را روی نقشه علامت بزنید.",
         Unfreeze = "رفع انجماد",
         WeaponHack = "هک اسلحه",
         FakeSkin = "اسکین جعلی",
@@ -36,8 +34,6 @@ return {
         GiveWanted = "وانتد دادن",
         SpeedRun = "افزایش سرعت دویدن",
         FlyHack = "پرواز",
-        FlyEnabled = "{111111}[ {FFFFFF}@{FF00FF}Art{00FFFF}Of{FFFF00}Cheat {111111}] {00FF00}[پرواز] {FFFFFF}فعال شد. {00FFFF}سرعت فعلی: {FFFFFF}",
-        FlyDisabled = "{111111}[ {FFFFFF}@{FF00FF}Art{00FFFF}Of{FFFF00}Cheat {111111}] {FF0000}[پرواز] {FFFFFF}غیرفعال شد.",
         GodMode = "جان بي نهايت",
         Attention = "توجه",
         InfinityOxygen = "نفس بي نهايت",
@@ -60,11 +56,7 @@ return {
         CarGodMode = "گاد مود",
         AutoFlip = "صاف کردن خودکار",
         CarSpeedHack = "افزایش سرعت خودرو",
-        CarSpeedOnMsg = "{111111}[ {FFFFFF}@{FF00FF}Art{00FFFF}Of{FFFF00}Cheat {111111}] {FFFFFF}افزایش سرعت {00FF00}فعال شد. {FFFFFF}فشار دهید: {999999}W یا S",
-        CarSpeedOffMsg = "{111111}[ {FFFFFF}@{FF00FF}Art{00FFFF}Of{FFFF00}Cheat {111111}] {FFFFFF}افزایش سرعت {FF0000}غیرفعال شد.",
         CarFlyHack = "پرواز",
-        CarFlyOnMsg = "{111111}[ {FFFFFF}@{FF00FF}Art{00FFFF}Of{FFFF00}Cheat {111111}] {00FF00}[پرواز خودرو] فعال شد! {FFFFFF}برای حرکت از W و برای تغییر جهت از دوربین استفاده کنید.",
-        CarFlyOffMsg = "{111111}[ {FFFFFF}@{FF00FF}Art{00FFFF}Of{FFFF00}Cheat {111111}] {FF0000}[پرواز خودرو] غیرفعال شد!",
         AntiBikeFall = "عدم سقوط از موتور موقع تصادف",
         InfinityFuel = "بنزين نا محدود و روشن ماندن خودرو",
         DriveAllCars = "سوار شدن به همه ماشين هاي فکشن",
@@ -134,4 +126,3 @@ return {
         ObjectIDInput = "آيدي آبجکت",
         FindObjectCheck = "پيدا کردن آبجکت"
     }
-}
